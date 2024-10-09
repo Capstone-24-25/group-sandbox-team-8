@@ -1,6 +1,6 @@
 #### About me
 
-I'm Jiaxin S
+I'm Jiaxin Su
 
 I play frisbee.
 I'm from Beijing.
