@@ -4,4 +4,5 @@
 template repo for class activity on git and github in pstat197a
 
 updated october 2024
+
 Shirley Wang, Sumeng Xu, Ziqian Zhao, Jiaxin Su
